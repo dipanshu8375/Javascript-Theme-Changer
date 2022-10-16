@@ -11,7 +11,7 @@ It helps to change the theme of the page by clicking on the toggle button.
   
 This is the live link of the project.
 
-Checkout Here [Live Link]()
+Checkout Here [Live Link](https://dp-themechanger.netlify.app)
 
 ``Light Mode``
 
