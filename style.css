@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+i{
+    font-size: 50px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
